@@ -43,7 +43,7 @@ Win32 Console Application
     }
 
 
-## Explicit Linking
+## explicit Linking
 
     #include <iostream>
     #include <windows.h>
