@@ -1,6 +1,6 @@
 # CPlusPlus_DLL
 
-Win32 Console Application
+VS Win32 Console Application empty DLL project
 
 ## header file DLL_H.h
 
