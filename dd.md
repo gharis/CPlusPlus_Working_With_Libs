@@ -7,3 +7,6 @@ https://stackoverflow.com/questions/64869655/why-opendds-transport-not-working-w
 https://stackoverflow.com/questions/64369338/issues-in-opendds-build
 
 https://stackoverflow.com/questions/65181116/why-multithreading-in-c-dll-get-error-c3867-when-building
+
+https://stackoverflow.com/questions/318064/how-do-you-declare-an-interface-in-c
+
