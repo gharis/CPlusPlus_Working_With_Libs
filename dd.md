@@ -10,3 +10,5 @@ https://stackoverflow.com/questions/65181116/why-multithreading-in-c-dll-get-err
 
 https://stackoverflow.com/questions/318064/how-do-you-declare-an-interface-in-c
 
+https://docs.microsoft.com/en-us/cpp/build/walkthrough-creating-and-using-a-dynamic-link-library-cpp?view=msvc-160
+
