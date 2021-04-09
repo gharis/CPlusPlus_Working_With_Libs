@@ -79,3 +79,7 @@ https://www.oreilly.com/library/view/c-cookbook/0596007612/ch08s09.html
 https://www.oreilly.com/library/view/c-cookbook/0596007612/ch08s09.html 
 
 https://flylib.com/books/en/2.131.1/giving_each_instance_of_a_class_a_unique_identifier.html 
+
+Load library dll 
+
+https://stackoverflow.com/questions/8696653/dynamically-load-a-function-from-a-dllhttps://stackoverflow.com/questions/8696653/dynamically-load-a-function-from-a-dll 
