@@ -83,3 +83,31 @@ https://flylib.com/books/en/2.131.1/giving_each_instance_of_a_class_a_unique_ide
 Load library dll 
 
 https://stackoverflow.com/questions/8696653/dynamically-load-a-function-from-a-dllhttps://stackoverflow.com/questions/8696653/dynamically-load-a-function-from-a-dll 
+
+Set Entry point manualy  
+
+https://stackoverflow.com/questions/17070367/link-fatal-error-lnk1561-entry-point-must-be-defined-error-in-vc/46403978 
+
+How to pass parameters to dll 
+
+https://stackoverflow.com/questions/27361479/how-to-pass-parameters-to-dll 
+
+LoadLibrary, a way to instantiate a class from external dll 
+
+https://stackoverflow.com/questions/7226848/loadlibrary-a-way-to-instantiate-a-class-from-external-dll 
+
+Dynamically loading a class from a dll. 
+
+https://edn.embarcadero.com/article/20165 
+
+C++: Dynamically loading classes from dlls 
+
+https://stackoverflow.com/questions/431533/c-dynamically-loading-classes-from-dlls 
+
+Dynamically loading classes from DLLs 
+
+https://www.codeguru.com/cpp/w-p/win32/article.php/c1443/Dynamically-loading-classes-from-DLLs.htm 
+
+Should I use static_cast or reinterpret_cast when casting a void* to whatever Ask Question 
+
+https://stackoverflow.com/questions/310451/should-i-use-static-cast-or-reinterpret-cast-when-casting-a-void-to-whatever 
