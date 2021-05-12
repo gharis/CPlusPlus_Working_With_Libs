@@ -111,3 +111,11 @@ https://www.codeguru.com/cpp/w-p/win32/article.php/c1443/Dynamically-loading-cla
 Should I use static_cast or reinterpret_cast when casting a void* to whatever Ask Question 
 
 https://stackoverflow.com/questions/310451/should-i-use-static-cast-or-reinterpret-cast-when-casting-a-void-to-whatever 
+
+How do I execute cmd commands through a batch file?
+
+https://stackoverflow.com/questions/16727941/how-do-i-execute-cmd-commands-through-a-batch-file
+
+batch file to copy files to another location?
+
+https://stackoverflow.com/questions/2195223/batch-file-to-copy-files-to-another-location
