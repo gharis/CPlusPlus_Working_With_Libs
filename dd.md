@@ -119,3 +119,38 @@ https://stackoverflow.com/questions/16727941/how-do-i-execute-cmd-commands-throu
 batch file to copy files to another location?
 
 https://stackoverflow.com/questions/2195223/batch-file-to-copy-files-to-another-location
+
+how-to-copy-selected-files-from-one-folder-to-another-in-batch-file 
+
+https://stackoverflow.com/questions/67670166/how-to-copy-selected-files-from-one-folder-to-another-in-batch-file/67681761#67681761 
+
+how-to-create-a-batch-file-for-visual-studio-command-prompt 
+
+https://stackoverflow.com/questions/5879076/how-to-create-a-batch-file-for-visual-studio-command-prompt 
+
+How to create a Batch File for Visual Studio Command Prompt
+
+https://stackoverflow.com/questions/5879076/how-to-create-a-batch-file-for-visual-studio-command-prompt 
+
+Batch file to copy certain file types from certain subdirectories to one folder 
+
+https://stackoverflow.com/questions/46799125/batch-file-to-copy-certain-file-types-from-certain-subdirectories-to-one-folder 
+
+Batch file to copy files from one folder to another folder 
+
+https://stackoverflow.com/questions/986447/batch-file-to-copy-files-from-one-folder-to-another-folder 
+
+What is the current directory in a batch file? 
+
+https://stackoverflow.com/questions/4419868/what-is-the-current-directory-in-a-batch-file 
+
+How to run multiple .BAT files within a .BAT file 
+
+https://stackoverflow.com/questions/1103994/how-to-run-multiple-bat-files-within-a-bat-file 
+
+Run batch files sequentially 
+
+https://stackoverflow.com/questions/12187938/run-batch-files-sequentially 
+
+ 
+
