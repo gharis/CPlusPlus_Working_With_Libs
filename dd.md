@@ -152,5 +152,6 @@ Run batch files sequentially
 
 https://stackoverflow.com/questions/12187938/run-batch-files-sequentially 
 
- 
+How to rename the name of project in VS2010
 
+https://stackoverflow.com/questions/12188975/how-to-rename-the-name-of-project-in-vs2010
